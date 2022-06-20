@@ -2,9 +2,9 @@ import React from 'react'
 import Message from "./Message";
 
 const messageData = {
-    avatar: 'https://sun9-74.userapi.com/Ph-WiuOtF985il9AvN9JqiCWedmHtSGSSTXrSA/ltEB2Z2-YO4.jpg',
-    name: 'Some Name',
-    message: 'some text',
+    avatar: 'https://download-cs.net/steam/avatars/3426.jpg',
+    name: 'Maks',
+    message: 'А ты занимался сегодня JS?',
     time: '22:00',
 }
 
